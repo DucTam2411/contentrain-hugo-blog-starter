@@ -1,7 +1,7 @@
 baseURL = 'https://lively-kangaroo-620075.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "ananke"
+theme = "paper"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
